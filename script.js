@@ -17,3 +17,8 @@ console.log(2%2)
 console.log(2**2)
 console.log(1++)
 console.log(1--)
+
+// alert, confirm, prompt
+alert("teste")
+confirm("teste")
+prompt("teste")
