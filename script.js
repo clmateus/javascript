@@ -20,5 +20,5 @@ console.log(1--)
 
 // alert, confirm, prompt
 alert("teste")
-confirm("teste")
+let confirma = confirm("teste")
 prompt("teste")
