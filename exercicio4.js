@@ -1,5 +1,9 @@
-let varA = varB
-let varB = varC
-let varC = varA
+let varA = 'A'
+let varB = 'B'
+let varC = 'C'
 
-console.log(varA, varB, varC)
+let varA2 = varB
+let varB2 = varC
+let varC2 = varA
+
+console.log(varA2, varB2, varC2)
