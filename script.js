@@ -27,3 +27,6 @@
 let umaString = "Um texto"
 console.log(umaString[4])
 console.log(umaString.charAt(6))
+console.log(umaString.indexOf('texto'))
+console.log(umaString.match(/[a-z]/g))
+console.log(umaString.replace('Um', 'Outra'))
