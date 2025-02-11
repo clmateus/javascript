@@ -22,3 +22,6 @@ console.log(1--)
 alert("teste")
 let confirma = confirm("teste")
 prompt("teste")
+
+// strings
+let umaString = "Um texto"
