@@ -32,5 +32,8 @@
 // console.log(umaString.replace('Um', 'Outra'))
 
 // numbers
-let num1 = 10.548459
-console.log(num1.toFixed(2))
+// let num1 = 10.548459
+// console.log(num1.toFixed(2))
+
+// Math
+// 
