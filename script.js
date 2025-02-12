@@ -36,13 +36,13 @@
 // console.log(num1.toFixed(2))
 
 // Math
-let num1 = 10.238923
-console.log(Math.floor(num1)) // Arredondar para baixo
-console.log(Math.ceil(num1)) // Arredondar para cima
-console.log(Math.round(num1)) // Arredonda para o mais próximo
-console.log(Math.max(1, 2, 3, 4, 5)) // Encontra o maior número
-console.log(Math.min(1, 2, 3, 4, 5)) // Encontra o menor número
-console.log(Math.random()) // Gera um número aleatório entre 0 e 1
-console.log(Math.random() * (10 - 5) + 5) // Gera um número aleatório entre 10 e 5
-console.log(Math.PI) // Mostra o número de PI
-console.log(25 ** 0.5) // Raiz quadrada
+// let num1 = 10.238923
+// console.log(Math.floor(num1)) // Arredondar para baixo
+// console.log(Math.ceil(num1)) // Arredondar para cima
+// console.log(Math.round(num1)) // Arredonda para o mais próximo
+// console.log(Math.max(1, 2, 3, 4, 5)) // Encontra o maior número
+// console.log(Math.min(1, 2, 3, 4, 5)) // Encontra o menor número
+// console.log(Math.random()) // Gera um número aleatório entre 0 e 1
+// console.log(Math.random() * (10 - 5) + 5) // Gera um número aleatório entre 10 e 5
+// console.log(Math.PI) // Mostra o número de PI
+// console.log(25 ** 0.5) // Raiz quadrada
