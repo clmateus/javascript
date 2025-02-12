@@ -44,3 +44,5 @@ console.log(Math.max(1, 2, 3, 4, 5)) // Encontra o maior número
 console.log(Math.min(1, 2, 3, 4, 5)) // Encontra o menor número
 console.log(Math.random()) // Gera um número aleatório entre 0 e 1
 console.log(Math.random() * (10 - 5) + 5) // Gera um número aleatório entre 10 e 5
+console.log(Math.PI) // Mostra o número de PI
+console.log(25 ** 0.5) // Raiz quadrada
