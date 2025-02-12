@@ -30,3 +30,5 @@
 // console.log(umaString.indexOf('texto'))
 // console.log(umaString.match(/[a-z]/g))
 // console.log(umaString.replace('Um', 'Outra'))
+
+// numbers
