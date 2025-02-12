@@ -12,7 +12,11 @@
         const divAaa = document.getElementById("aaa")
         divAaa.innerHTML += `<h1>Seu número é ${num1}</h1>` 
         divAaa.innerHTML += `<p>Raiz quadrada ${num1 ** 0.5}</p>` 
-        divAaa.innerHTML += `<p>${num1} é inteiro? ${int.num1}</p>` 
+        divAaa.innerHTML += `<p>${num1} é inteiro? ${Number.isInteger(num1)}</p>` 
+        divAaa.innerHTML += `<p>é NaN? ${Number.isNaN(num1)}</p>` 
+        divAaa.innerHTML += `<p>Arredondado para baixo: ${Math.floor(num1)}</p>` 
+        divAaa.innerHTML += `<p>Arredondado para cima: ${Math.ceil(num1)}</p>` 
+        divAaa.innerHTML += `<p>Com duas casas decimais: ${num1.toFixed(2)}</p>` 
     </script>
 </body>
 </html>
