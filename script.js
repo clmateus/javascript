@@ -48,3 +48,4 @@
 // console.log(25 ** 0.5) // Raiz quadrada
 
 // Arrays
+array = [1, 2, 3, 4]
