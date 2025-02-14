@@ -46,3 +46,5 @@
 // console.log(Math.random() * (10 - 5) + 5) // Gera um número aleatório entre 10 e 5
 // console.log(Math.PI) // Mostra o número de PI
 // console.log(25 ** 0.5) // Raiz quadrada
+
+// Arrays
