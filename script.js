@@ -50,3 +50,6 @@
 // Arrays
 array = [1, 2, 3, 4, "string", null, true]
 console.log(array[1])
+array[0] = "outro"
+console.log(array[0])
+array[7] = "mais um"
