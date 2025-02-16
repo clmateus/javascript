@@ -48,11 +48,14 @@
 // console.log(25 ** 0.5) // Raiz quadrada
 
 // Arrays
-array = [1, 2, 3, 4, "string", null, true]
-console.log(array[1])
-array[0] = "outro"
-console.log(array[0])
-array[7] = "mais um"
-array.push('adiciona no fim')
-array.unshift('adiciona no começo')
-console.log(array)
+// array = [1, 2, 3, 4, "string", null, true]
+// console.log(array[1])
+// array[0] = "outro"
+// console.log(array[0])
+// array[7] = "mais um"
+// array.push('adiciona no fim')
+// array.unshift('adiciona no começo')
+// console.log(array)
+
+// Const mutável
+const array = [1, 2, 3, 4]
