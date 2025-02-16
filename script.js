@@ -53,3 +53,6 @@ console.log(array[1])
 array[0] = "outro"
 console.log(array[0])
 array[7] = "mais um"
+array.push('adiciona no fim')
+array.unshift('adiciona no começo')
+console.log(array)
