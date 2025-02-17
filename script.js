@@ -104,10 +104,10 @@
 // const pessoa2 = criaPessoa('Esther', 'Kumitake', 19)
 // console.log(pessoa1)
 // console.log(pessoa2)
-const pessoa = {
-    nome: 'Mateus',
-    fala() {
-        console.log(`${this.nome} está falando!`)
-    }
-};
-pessoa.fala()
+// const pessoa = {
+//     nome: 'Mateus',
+//     fala() {
+//         console.log(`${this.nome} está falando!`)
+//     }
+// };
+// pessoa.fala()
