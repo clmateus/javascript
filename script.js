@@ -73,10 +73,14 @@
 // saudacao('Mateus')
 // saudacao('Maria')
 // saudacao('João')
-function soma(x, y) {
-    resultado = x + y
-    return resultado
-}
-console.log(soma(2, 2))
-console.log(soma(5, 5))
-console.log(soma(3, 3))
+// function soma(x, y) {
+//     resultado = x + y
+//     return resultado
+// }
+// console.log(soma(2, 2))
+// console.log(soma(5, 5))
+// console.log(soma(3, 3))
+const raiz = function (n) {
+    return n ** 0.5;
+};
+console.log(raiz(9))
