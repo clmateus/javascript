@@ -86,8 +86,23 @@
 // console.log(raiz(25))
 
 // Objetos
-const pessoa = {
-    nome: 'Mateus',
-    idade: 24
+// const pessoa = {
+//     nome: 'Mateus',
+//     idade: 24
+// }
+// console.log(pessoa)
+// console.log(pessoa.nome)
+// console.log(pessoa.idade)
+function criaPessoa(nome, sobrenome, idade) {
+    return {
+        nome: nome,
+        sobrenome: sobrenome,
+        idade: idade
+    }
 }
-console.log(pessoa)
+
+const pessoa1 = criaPessoa('Mateus', 'Costa', 24)
+const pessoa2 = criaPessoa('Esther', 'Kumitake', 19)
+
+console.log(pessoa1)
+console.log(pessoa2)
