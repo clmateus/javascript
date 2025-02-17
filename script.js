@@ -58,10 +58,16 @@
 // console.log(array)
 
 // Const mutável
-const array = [1, 2, 3, 4]
-array.pop()
-console.log(array)
-array[0] = 13
-console.log(array)
-array.unshift(99)
-console.log(array)
+// const array = [1, 2, 3, 4]
+// array.pop()
+// console.log(array)
+// array[0] = 13
+// console.log(array)
+// array.unshift(99)
+// console.log(array)
+
+// Funções
+function saudacao() {
+    console.log(`Hello World`)
+}
+saudacao()
