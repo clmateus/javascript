@@ -67,7 +67,9 @@
 // console.log(array)
 
 // Funções
-function saudacao() {
-    console.log(`Hello World`)
+function saudacao(nome) {
+    console.log(`Hello World ${nome}!`)
 }
-saudacao()
+saudacao('Mateus')
+saudacao('Maria')
+saudacao('João')
