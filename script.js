@@ -67,9 +67,16 @@
 // console.log(array)
 
 // Funções
-function saudacao(nome) {
-    console.log(`Hello World ${nome}!`)
+// function saudacao(nome) {
+//     console.log(`Hello World ${nome}!`)
+// }
+// saudacao('Mateus')
+// saudacao('Maria')
+// saudacao('João')
+function soma(x, y) {
+    resultado = x + y
+    return resultado
 }
-saudacao('Mateus')
-saudacao('Maria')
-saudacao('João')
+console.log(soma(2, 2))
+console.log(soma(5, 5))
+console.log(soma(3, 3))
